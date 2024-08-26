@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78d0415c-965b-461e-b23c-ad053e05799a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HeaDHunteR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_flask_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/Database/hh_flask.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/FilesWithRequests/1-Программист-Москва-202401211755" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/FilesWithRequests/1-Программист-Москва-202401231108" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/FilesWithRequests/2-Программист-Москва-202401211756" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/FilesWithRequests/2-Программист-Москва-202401212134" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/authorization/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/authorization/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/create_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/flask_parser/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/flask_parser/flask_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/hh_config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/double_terms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/hhparser_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/hhparser_key_skills.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/hhparser_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/hhrequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/ignore_terms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/parser_app/process_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/static/css/sb-admin-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/static/css/sb-admin-2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/static/img/undraw_posting_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/static/js/sb-admin-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/static/js/sb-admin-2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/request-view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hh_parser/templates/requests.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hh_parser/parser_app/hhparser_description.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2l6IzHtysH4HoJ4QsW6wLNVeSUI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.11.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.create_db.executor": "Run",
+    "Python.flask_parser.executor": "Run",
+    "Python.hh_flask_parser (1).executor": "Run",
+    "Python.hh_flask_parser.executor": "Run",
+    "Python.process_request.executor": "Run",
+    "Python.table.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/HH/HeaDHunteR",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HH\HeaDHunteR" />
+      <recent name="C:\HH\HeaDHunteR\hh_parser\parser_app" />
+      <recent name="C:\HH\HeaDHunteR\hh_parser\Database" />
+      <recent name="C:\HH\HeaDHunteR\hh_parser\web_app" />
+      <recent name="C:\HH\HeaDHunteR\hh_parser\web_app\auhtorization" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\HH\HeaDHunteR\hh_parser\parser_app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hh_flask_parser (1)">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeaDHunteR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Lib/site-packages/flask_table" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Lib/site-packages/flask_table/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hh_flask_parser (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeaDHunteR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hh_flask_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hh_flask_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeaDHunteR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hh_parser/web_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hh_parser/web_app/hh_flask_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HeaDHunteR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeaDHunteR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hh_parser/parser_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hh_parser/parser_app/process_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeaDHunteR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Lib/site-packages/flask_table" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Lib/site-packages/flask_table/table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hh_flask_parser (1)" />
+        <item itemvalue="Python.hh_flask_parser" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.table" />
+        <item itemvalue="Python.process_request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78d0415c-965b-461e-b23c-ad053e05799a" name="Changes" comment="" />
+      <created>1724494360670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724494360670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hh_parser/web_app/models.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
